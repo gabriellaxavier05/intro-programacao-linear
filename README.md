@@ -1,6 +1,6 @@
 ## Olá! 👋🏼😀
 
-Este repositório armazena anotações e atividades realiizadas no Excel envolvendo Programação Linear.
+Este repositório armazena anotações e atividades realizadas no Excel envolvendo Programação Linear.
 
 <br>
 
